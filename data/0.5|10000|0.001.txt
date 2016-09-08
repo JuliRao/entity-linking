@@ -1,0 +1,188 @@
+Which companies work in the aerospace industry as well as on nuclear reactor technology?
+aerospace	support: 1368	similarity: 0.9941256056301089	secondRank: 0.005394578245902079
+nuclear reactor technology	support: 2890	similarity: 1.0	secondRank: 0.0
+
+Is Christian Bale starring in "Batman Begins"?
+Christian Bale	support: 446	similarity: 1.0	secondRank: 2.8355505306832794E-17
+
+Which music albums contain the song Last Christmas?
+Last Christmas	support: 107	similarity: 1.0	secondRank: 0.0
+
+Which companies were founded in California, USA?
+California	support: 121145	similarity: 0.9999543018915399	secondRank: 3.453571453293518E-5
+USA	support: 560750	similarity: 0.9999250843974293	secondRank: 2.552207740862936E-5
+
+Who produced films starring Natalie Portman?
+Natalie Portman	support: 492	similarity: 1.0	secondRank: 0.0
+
+In which films did Julia Roberts as well as Richard Gere play?
+Julia Roberts	support: 584	similarity: 1.0	secondRank: 0.0
+Richard Gere	support: 509	similarity: 1.0	secondRank: 0.0
+
+Who wrote the book The pillars of the Earth?
+Earth	support: 30379	similarity: 0.9985970349548228	secondRank: 4.2830996870328077E-4
+
+Through which countries does the Yenisei river flow?
+Yenisei river	support: 447	similarity: 1.0	secondRank: 0.0
+
+When did Germany join the EU?
+Germany	support: 182228	similarity: 0.9989146905199408	secondRank: 7.377151463175704E-4
+EU	support: 22919	similarity: 0.999541299038551	secondRank: 2.9108463948304404E-4
+
+Which companies are in the computer software industry?
+computer software	support: 14898	similarity: 0.999801302940446	secondRank: 1.0924173038962415E-4
+
+When did Finland join the EU?
+Finland	support: 43178	similarity: 0.9999116412958066	secondRank: 5.084453052324622E-5
+EU	support: 22919	similarity: 0.9996313132001832	secondRank: 2.0828715363067253E-4
+
+When is the movie Worst Case Scenario going to be in cinemas in the Netherlands?
+Worst Case Scenario	support: 5	similarity: 0.569192655248737	secondRank: 0.5770645995576179
+Netherlands	support: 76701	similarity: 0.9996721214051811	secondRank: 2.1169656499647022E-4
+
+When was Alberta admitted as province?
+Alberta	support: 26325	similarity: 0.9999154930627387	secondRank: 7.692792562790957E-5
+
+What is the total amount of men and women serving in the FDNY?
+FDNY	support: 491	similarity: 0.9999999959445489	secondRank: 0.0
+
+Does the new Battlestar Galactica series have more episodes than the old one?
+Battlestar Galactica	support: 853	similarity: 0.9926549067815119	secondRank: 0.005749989127987312
+
+Who are the parents of the wife of Juan Carlos I?
+Juan Carlos I	support: 873	similarity: 0.9922357288213771	secondRank: 0.007825024282691523
+
+Which films starring Clint Eastwood did he direct himself?
+Clint Eastwood	support: 1511	similarity: 0.9999999989091748	secondRank: 9.83315939862708E-10
+
+Which movies did Sam Raimi direct after Army of Darkness?
+Sam Raimi	support: 456	similarity: 1.0	secondRank: 0.0
+
+When did Latvia join the EU?
+Latvia	support: 14210	similarity: 0.9998462537183967	secondRank: 1.2977693511822134E-4
+EU	support: 22919	similarity: 0.9997191601263395	secondRank: 1.419310176518528E-4
+
+Who wrote the book Les Piliers de la terre?
+
+Which movies did Kurosawa direct after Rashomon?
+Rashomon	support: 28	similarity: 0.9998328391574005	secondRank: 1.1499288986132929E-4
+
+Who wrote the book The Pillars of the Earth?
+Earth	support: 30379	similarity: 0.9985970349548228	secondRank: 4.2830996870328077E-4
+
+Which companies work in the aerospace industry as well as in medicine?
+aerospace	support: 1368	similarity: 0.9795257357250168	secondRank: 0.017503556536757666
+medicine	support: 9661	similarity: 0.9952557852142717	secondRank: 0.0030001061407951956
+
+Which Chess players died in the same place they were born in?
+
+Does Breaking Bad have more episodes than Game of Thrones?
+Breaking Bad	support: 638	similarity: 0.9999999999999432	secondRank: 3.742654046657736E-14
+
+How many gold medals did Michael Phelps win at the 2008 Olympics?
+Michael Phelps	support: 421	similarity: 0.9999999999999574	secondRank: 3.7668541121404245E-14
+
+Does Abraham Lincoln's death place have a website?
+Abraham Lincoln	support: 7787	similarity: 0.9999999963231545	secondRank: 3.170316809131808E-9
+
+What are the top-10 action role-playing video games according to IGN?
+-10	support: 295	similarity: 0.814642438637619	secondRank: 0.1409600098386717
+action role-playing video games	support: 653	similarity: 1.0	secondRank: 0.0
+IGN	support: 10090	similarity: 0.9999833937102787	secondRank: 1.6606565482246223E-5
+
+Does the Isar flow into a lake?
+Isar	support: 330	similarity: 0.9999999999812133	secondRank: 1.8717906189544603E-11
+
+Give me all actors called Baldwin.
+
+Which ingredients do I need for carrot cake?
+carrot cake	support: 25	similarity: 1.0	secondRank: 0.0
+
+Of the people that died of radiation in Los Alamos, whose death was an accident?
+radiation	support: 4568	similarity: 0.9583626939449528	secondRank: 0.02783833298326
+Los Alamos	support: 1206	similarity: 0.9572070114052835	secondRank: 0.04429362156793396
+
+Who plays Phileas Fogg in the adaptation of Around the World in 80 Days directed by Buzz Kulik?
+Phileas Fogg	support: 122	similarity: 0.9999774790790851	secondRank: 2.2521428121075734E-5
+Buzz Kulik	support: 18	similarity: 1.0	secondRank: 0.0
+
+Which companies have more than 1 million employees?
+
+Show me the book that Muhammad Ali wrote.
+
+From which region is the Melon de Bourgogne?
+Melon de Bourgogne	support: 54	similarity: 1.0	secondRank: 0.0
+
+Where in France is sparkling wine produced?
+France	support: 205641	similarity: 0.9999234504617224	secondRank: 2.517194172048398E-5
+sparkling wine	support: 869	similarity: 0.9992363214315124	secondRank: 7.642622191590982E-4
+
+Which animals are critically endangered?
+critically endangered	support: 1286	similarity: 0.9832755133348066	secondRank: 0.016685618737056047
+
+How many companies were founded by the founder of Facebook?
+Facebook	support: 11697	similarity: 0.9999722983083418	secondRank: 2.4748029497098704E-5
+
+How many companies were founded in the same year as Google?
+Google	support: 15257	similarity: 0.9992866814279238	secondRank: 6.8738800459684E-4
+
+Desserts from which country contain fish?
+
+How many ethnic groups live in Slovenia?
+Slovenia	support: 22811	similarity: 0.9993631085799061	secondRank: 6.230965267707725E-4
+
+Which Secretary of State was significantly involved in the United States' dominance of the Caribbean?
+United States	support: 560750	similarity: 0.9999691845396158	secondRank: 2.3280667048792498E-5
+
+What is the name of the Viennese newspaper founded by the creator of the croissant?
+croissant	support: 107	similarity: 0.9999999999999858	secondRank: 0.0
+
+In which city where Charlie Chaplin's half brothers born?
+Charlie Chaplin	support: 1850	similarity: 0.9999999974877056	secondRank: 1.7395759001958702E-9
+
+Which of the volcanoes that erupted in 1550 is still active?
+volcanoes	support: 8555	similarity: 0.9999990684853164	secondRank: 9.311354530354444E-7
+
+Which daughter of Francis Ford Coppola received an Academy Award for Lost in Translation?
+Francis Ford Coppola	support: 967	similarity: 1.0	secondRank: 0.0
+
+In which city does the sports commentator know as Memory Man live?
+sports commentator	support: 3505	similarity: 0.9987145193672344	secondRank: 0.0012871352201550632
+
+When was the European President known as the decider born?
+
+Who of those resting in Westminster Abbey wrote a book set in London and Paris?
+Westminster Abbey	support: 3151	similarity: 0.9999684542388527	secondRank: 3.154595605593585E-5
+London	support: 158140	similarity: 0.9997291404520746	secondRank: 1.999257063117394E-4
+Paris	support: 75243	similarity: 0.9997833957511474	secondRank: 1.4684277458452052E-4
+
+Who wrote the song Hotel California?
+Hotel California	support: 110	similarity: 0.9999975480161046	secondRank: 2.3969872001390373E-6
+
+When did the Boston Tea Party take place?
+Boston Tea Party	support: 374	similarity: 0.9075149093871372	secondRank: 0.09652281257620775
+
+When did Boris Becker end his active career?
+Boris Becker	support: 380	similarity: 0.9999999999999005	secondRank: 0.0
+
+Does Neymar play for Real Madrid?
+Neymar	support: 147	similarity: 0.9999999999996305	secondRank: 0.0
+Real Madrid	support: 5706	similarity: 0.9997997158050238	secondRank: 1.2530020032078243E-4
+
+Which movies star both Liz Taylor and Richard Burton?
+Liz Taylor	support: 1134	similarity: 1.0	secondRank: 0.0
+Richard Burton	support: 714	similarity: 0.999873005110574	secondRank: 1.270110143614836E-4
+
+Which companies produce hovercrafts?
+hovercrafts	support: 683	similarity: 0.9999998921186859	secondRank: 0.0
+
+Show me hiking trails in the Grand Canyon where there's no danger of flash floods.
+hiking	support: 3363	similarity: 0.9971722752076345	secondRank: 0.0028270648187850704
+Grand Canyon	support: 1822	similarity: 0.9688468724396905	secondRank: 0.03215475227937362
+flash floods	support: 747	similarity: 0.999991845978078	secondRank: 8.154088414055259E-6
+
+What languages do they speak in Pakistan?
+Pakistan	support: 66699	similarity: 0.9997237337355535	secondRank: 1.0410266993101893E-4
+
+Who became president after JFK died?
+
